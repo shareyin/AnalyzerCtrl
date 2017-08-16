@@ -1,0 +1,95 @@
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+C:\Users\shareyin\Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csproj.GenerateResource.Cache
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csproj.GenerateResource.Cache
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csprojResolveAssemblyReference.cache
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+F:\激光交调\汪传旺资料\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\Aspose.Cells.dll
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wangchuanwang\Desktop\出差(1)\出差\出差\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csprojResolveAssemblyReference.cache
+E:\C#上位机\交调上位机\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\Aspose.Cells.dll
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\263EM\yinzhongcai@wanji.net.cn\receive_file\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ETC防作弊\SerialportVehicle\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ETC防作弊\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csprojResolveAssemblyReference.cache
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form1.resources
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+E:\dev\dev161201\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csproj.GenerateResource.Cache
+E:\Demo\SDreader\SDreader\SerialportVehicle\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\Demo\SDreader\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\Demo\SDreader\SDreader\SerialportVehicle\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\bin\Debug\SerialportVehicle.exe.config
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.exe
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.pdb
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\bin\Debug\SerialportVehicle.exe
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\bin\Debug\SerialportVehicle.pdb
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Form2.resources
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.Properties.Resources.resources
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csproj.GenerateResource.Cache
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.csprojResolveAssemblyReference.cache
+E:\微波射频-转台上位机\频谱仪-转台\PinCtrl\SerialportVehicle\obj\x86\Debug\SerialportVehicle.MainForm.resources
